@@ -1,0 +1,6783 @@
+{
+    "Acceleration": 1,
+    "CreationTime": "20211221T235540",
+    "DoNotShowWindowOnFinish": false,
+    "Events": [
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F11",
+            "Timestamp": 2655
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "F1",
+            "Timestamp": 3335
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F1",
+            "Timestamp": 3471
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F11",
+            "Timestamp": 5919
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "F1",
+            "Timestamp": 6664
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F1",
+            "Timestamp": 6767
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 21455,
+            "X": 52.5099983215332,
+            "Y": 51.68000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 21535,
+            "X": 52.5099983215332,
+            "Y": 51.68000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 21679,
+            "X": 52.56999969482422,
+            "Y": 53.869998931884766
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 21727,
+            "X": 52.619998931884766,
+            "Y": 53.869998931884766
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 21735,
+            "X": 52.619998931884766,
+            "Y": 54.16999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 21743,
+            "X": 52.619998931884766,
+            "Y": 54.66999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 21750,
+            "X": 52.619998931884766,
+            "Y": 55.459999084472656
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 21759,
+            "X": 52.619998931884766,
+            "Y": 56.2599983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 21759,
+            "X": 52.619998931884766,
+            "Y": 56.2599983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 21879,
+            "X": 52.459999084472656,
+            "Y": 66.5999984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 21951,
+            "X": 52.459999084472656,
+            "Y": 66.5999984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 22087,
+            "X": 52.459999084472656,
+            "Y": 66.69000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 22103,
+            "X": 52.459999084472656,
+            "Y": 66.79000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 22111,
+            "X": 52.5099983215332,
+            "Y": 66.79000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 22183,
+            "X": 52.5099983215332,
+            "Y": 66.79000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 22311,
+            "X": 52.790000915527344,
+            "Y": 62.720001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 22408,
+            "X": 52.790000915527344,
+            "Y": 62.720001220703125
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F11",
+            "Timestamp": 22966
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 23759,
+            "X": 59.11000061035156,
+            "Y": 68.58000183105469
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 23847,
+            "X": 59.11000061035156,
+            "Y": 68.58000183105469
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 24007,
+            "X": 66.30000305175781,
+            "Y": 57.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 24094,
+            "X": 66.30000305175781,
+            "Y": 57.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 24239,
+            "X": 66.4000015258789,
+            "Y": 56.900001525878906
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 24271,
+            "X": 66.44999694824219,
+            "Y": 56.810001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 24328,
+            "X": 66.44999694824219,
+            "Y": 56.810001373291016
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Esc",
+            "Timestamp": 32146
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F11",
+            "Timestamp": 33295
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "F1",
+            "Timestamp": 34383
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F1",
+            "Timestamp": 34511
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Esc",
+            "Timestamp": 36669
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F11",
+            "Timestamp": 37824
+        },
+        {
+            "Delta": -120,
+            "EventType": "MouseWheel",
+            "Timestamp": 51071,
+            "X": 50,
+            "Y": 49.95000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 51726,
+            "X": 48.279998779296875,
+            "Y": 63.38999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 51808,
+            "X": 48.279998779296875,
+            "Y": 63.38999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 53023,
+            "X": 61.91999816894531,
+            "Y": 63.66999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 53119,
+            "X": 61.91999816894531,
+            "Y": 63.66999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 53775,
+            "X": 63.689998626708984,
+            "Y": 43.91999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 53854,
+            "X": 63.689998626708984,
+            "Y": 43.91999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 54416,
+            "X": 65.62000274658203,
+            "Y": 82.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 54438,
+            "X": 65.56999969482422,
+            "Y": 82.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 54496,
+            "X": 65.56999969482422,
+            "Y": 82.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 55327,
+            "X": 58.16999816894531,
+            "Y": 45.5
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 55408,
+            "X": 58.16999816894531,
+            "Y": 45.5
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 56359,
+            "X": 51.560001373291016,
+            "Y": 47.16999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 56472,
+            "X": 51.560001373291016,
+            "Y": 47.16999816894531
+        },
+        {
+            "Delta": 120,
+            "EventType": "MouseWheel",
+            "Timestamp": 57119,
+            "X": 44.630001068115234,
+            "Y": 47.2599983215332
+        },
+        {
+            "Delta": 120,
+            "EventType": "MouseWheel",
+            "Timestamp": 57143,
+            "X": 44.630001068115234,
+            "Y": 47.2599983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 58743,
+            "X": 11.25,
+            "Y": 72.83999633789062
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 58799,
+            "X": 11.25,
+            "Y": 72.93000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 58808,
+            "X": 11.1899995803833,
+            "Y": 72.93000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 58808,
+            "X": 11.1899995803833,
+            "Y": 72.93000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 59575,
+            "X": 65.5199966430664,
+            "Y": 83.58999633789062
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 59663,
+            "X": 65.5199966430664,
+            "Y": 83.58999633789062
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 61423,
+            "X": 33.06999969482422,
+            "Y": 27.979999542236328
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 61502,
+            "X": 33.06999969482422,
+            "Y": 27.979999542236328
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 62279,
+            "X": 66.55999755859375,
+            "Y": 83.5
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 62351,
+            "X": 66.51000213623047,
+            "Y": 83.58999633789062
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 62351,
+            "X": 66.51000213623047,
+            "Y": 83.58999633789062
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 62895,
+            "X": 71.81999969482422,
+            "Y": 13.710000038146973
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 62991,
+            "X": 71.81999969482422,
+            "Y": 13.710000038146973
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 63527
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 63656
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 65495
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 65608
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 65731
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 65783
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 65888
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 65943
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 66135
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 66231
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 66311
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 66399
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 66663
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 66751
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 66904
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 67016
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 67192
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 67319
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 67527
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 67679
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 69567
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 69727
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 71431
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 71583
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 73839
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 73967
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 77287
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 77415
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 82239
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 82335
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "C",
+            "Timestamp": 83151
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "C",
+            "Timestamp": 83263
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "D",
+            "Timestamp": 84247
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "D",
+            "Timestamp": 84748
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "D",
+            "Timestamp": 84780
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "D",
+            "Timestamp": 84813
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "D",
+            "Timestamp": 84846
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "D",
+            "Timestamp": 84880
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "D",
+            "Timestamp": 84912
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "D",
+            "Timestamp": 84945
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "D",
+            "Timestamp": 84978
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 85008
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 85507
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 85540
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 85573
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 85607
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 85639
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 85673
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 85705
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 85738
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 85771
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 85805
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 85837
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 85870
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 85903
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 85936
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "D",
+            "Timestamp": 85961
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "W",
+            "Timestamp": 85961
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 87687
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 88186
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 88220
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 88252
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 88285
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 88319
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 88352
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 88384
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 88417
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 88451
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 88463
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 88964
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 88996
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 89029
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "S",
+            "Timestamp": 89032
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 89531
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 89563
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 89596
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 89629
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 89663
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 89696
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 89729
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "A",
+            "Timestamp": 89751
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "D",
+            "Timestamp": 89879
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "D",
+            "Timestamp": 90151
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 90727
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "W",
+            "Timestamp": 90879
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 91071
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "W",
+            "Timestamp": 91384
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 91639
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "W",
+            "Timestamp": 91791
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 98071
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 98207
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Esc",
+            "Timestamp": 105683
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Esc",
+            "Timestamp": 106416
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Esc",
+            "Timestamp": 106543
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 107128,
+            "X": 68.44999694824219,
+            "Y": 63.90999984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 107247,
+            "X": 68.44999694824219,
+            "Y": 63.90999984741211
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F11",
+            "Timestamp": 112335
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 113567,
+            "X": 82.02999877929688,
+            "Y": 84.1500015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 113648,
+            "X": 82.02999877929688,
+            "Y": 84.1500015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 114935,
+            "X": 94.11000061035156,
+            "Y": 34.290000915527344
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 115031,
+            "X": 94.11000061035156,
+            "Y": 34.290000915527344
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 116399,
+            "X": 49.630001068115234,
+            "Y": 68.94999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 116407,
+            "X": 49.68000030517578,
+            "Y": 69.2300033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 116415,
+            "X": 49.68000030517578,
+            "Y": 69.31999969482422
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 116423,
+            "X": 49.790000915527344,
+            "Y": 69.41000366210938
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 116431,
+            "X": 49.790000915527344,
+            "Y": 69.69000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 116438,
+            "X": 49.790000915527344,
+            "Y": 69.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 116447,
+            "X": 49.84000015258789,
+            "Y": 70.1500015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 116454,
+            "X": 49.84000015258789,
+            "Y": 70.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 116462,
+            "X": 49.939998626708984,
+            "Y": 70.5199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 116471,
+            "X": 49.939998626708984,
+            "Y": 70.98999786376953
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 116479,
+            "X": 49.939998626708984,
+            "Y": 71.16999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 116488,
+            "X": 49.939998626708984,
+            "Y": 71.44999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 116495,
+            "X": 49.939998626708984,
+            "Y": 71.54000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 116495,
+            "X": 49.939998626708984,
+            "Y": 71.54000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 116696,
+            "X": 49.939998626708984,
+            "Y": 76.2699966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 116815,
+            "X": 49.939998626708984,
+            "Y": 76.2699966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 117631,
+            "X": 96.44999694824219,
+            "Y": 3.7899999618530273
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 117719,
+            "X": 96.44999694824219,
+            "Y": 3.7899999618530273
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 118398,
+            "X": 80.87999725341797,
+            "Y": 85.72000122070312
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 118455,
+            "X": 80.87999725341797,
+            "Y": 85.72000122070312
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 120255,
+            "X": 27.440000534057617,
+            "Y": 90.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 120343,
+            "X": 27.440000534057617,
+            "Y": 90.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 121623,
+            "X": 79.68000030517578,
+            "Y": 92.4000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 121726,
+            "X": 79.68000030517578,
+            "Y": 92.4000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 122992,
+            "X": 49.11000061035156,
+            "Y": 53.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123070,
+            "X": 49.369998931884766,
+            "Y": 53.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123079,
+            "X": 49.84000015258789,
+            "Y": 53.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123087,
+            "X": 50.459999084472656,
+            "Y": 53.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123095,
+            "X": 51.45000076293945,
+            "Y": 53.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123103,
+            "X": 52.439998626708984,
+            "Y": 53.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123111,
+            "X": 53.689998626708984,
+            "Y": 53.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123118,
+            "X": 55.150001525878906,
+            "Y": 53.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123127,
+            "X": 56.81999969482422,
+            "Y": 53.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123135,
+            "X": 58.380001068115234,
+            "Y": 53.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123143,
+            "X": 60.36000061035156,
+            "Y": 53.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123152,
+            "X": 62.34000015258789,
+            "Y": 53.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123158,
+            "X": 64.31999969482422,
+            "Y": 53.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123167,
+            "X": 66.04000091552734,
+            "Y": 53.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123175,
+            "X": 67.44000244140625,
+            "Y": 53.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123183,
+            "X": 68.22000122070312,
+            "Y": 53.470001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123191,
+            "X": 68.63999938964844,
+            "Y": 53.189998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123198,
+            "X": 68.8499984741211,
+            "Y": 53.189998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123207,
+            "X": 69.01000213623047,
+            "Y": 53.189998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123408,
+            "X": 68.63999938964844,
+            "Y": 53.189998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123414,
+            "X": 67.76000213623047,
+            "Y": 53.189998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123422,
+            "X": 66.91999816894531,
+            "Y": 53.189998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123431,
+            "X": 65.5199966430664,
+            "Y": 53.189998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123439,
+            "X": 63.95000076293945,
+            "Y": 53.189998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123447,
+            "X": 62.38999938964844,
+            "Y": 53.189998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123454,
+            "X": 60.56999969482422,
+            "Y": 53.189998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123462,
+            "X": 58.689998626708984,
+            "Y": 53.189998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123471,
+            "X": 57.029998779296875,
+            "Y": 53.189998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123479,
+            "X": 55.150001525878906,
+            "Y": 53.189998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123487,
+            "X": 53.220001220703125,
+            "Y": 53.75
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123495,
+            "X": 51.13999938964844,
+            "Y": 54.400001525878906
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123502,
+            "X": 48.79999923706055,
+            "Y": 55.04999923706055
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123511,
+            "X": 46.45000076293945,
+            "Y": 55.790000915527344
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123519,
+            "X": 43.689998626708984,
+            "Y": 56.529998779296875
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123527,
+            "X": 40.97999954223633,
+            "Y": 57.27000045776367
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123535,
+            "X": 38.220001220703125,
+            "Y": 57.91999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123544,
+            "X": 34.939998626708984,
+            "Y": 58.56999969482422
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123551,
+            "X": 30.520000457763672,
+            "Y": 59.4900016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123559,
+            "X": 26.510000228881836,
+            "Y": 60.33000183105469
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123567,
+            "X": 22.18000030517578,
+            "Y": 61.529998779296875
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123575,
+            "X": 18.540000915527344,
+            "Y": 61.900001525878906
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123582,
+            "X": 15.260000228881836,
+            "Y": 61.900001525878906
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123591,
+            "X": 12.029999732971191,
+            "Y": 61.900001525878906
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123599,
+            "X": 9.0600004196167,
+            "Y": 61.900001525878906
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123609,
+            "X": 6.659999847412109,
+            "Y": 61.900001525878906
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123615,
+            "X": 5.260000228881836,
+            "Y": 61.900001525878906
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123622,
+            "X": 4.630000114440918,
+            "Y": 62.09000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123630,
+            "X": 4.579999923706055,
+            "Y": 62.09000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123679,
+            "X": 4.53000020980835,
+            "Y": 62.18000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123687,
+            "X": 5.099999904632568,
+            "Y": 62.459999084472656
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123695,
+            "X": 6.96999979019165,
+            "Y": 62.7400016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123702,
+            "X": 9.729999542236328,
+            "Y": 63.47999954223633
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123711,
+            "X": 12.960000038146973,
+            "Y": 63.47999954223633
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123719,
+            "X": 16.770000457763672,
+            "Y": 63.47999954223633
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123727,
+            "X": 20.829999923706055,
+            "Y": 63.47999954223633
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123735,
+            "X": 24.530000686645508,
+            "Y": 63.47999954223633
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123743,
+            "X": 28.75,
+            "Y": 63.47999954223633
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123750,
+            "X": 32.18000030517578,
+            "Y": 62.83000183105469
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123759,
+            "X": 35.52000045776367,
+            "Y": 61.630001068115234
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123767,
+            "X": 38.689998626708984,
+            "Y": 60.5099983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123775,
+            "X": 41.400001525878906,
+            "Y": 59.029998779296875
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123782,
+            "X": 44.470001220703125,
+            "Y": 57.54999923706055
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123790,
+            "X": 47.439998626708984,
+            "Y": 56.06999969482422
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123799,
+            "X": 49.84000015258789,
+            "Y": 54.95000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123808,
+            "X": 52.08000183105469,
+            "Y": 53.93000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123815,
+            "X": 53.279998779296875,
+            "Y": 52.72999954223633
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123823,
+            "X": 54.790000915527344,
+            "Y": 52.45000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123830,
+            "X": 55.779998779296875,
+            "Y": 51.9900016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123839,
+            "X": 56.81999969482422,
+            "Y": 51.709999084472656
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123847,
+            "X": 57.22999954223633,
+            "Y": 51.709999084472656
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123855,
+            "X": 57.38999938964844,
+            "Y": 51.619998931884766
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123895,
+            "X": 57.290000915527344,
+            "Y": 51.52000045776367
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123903,
+            "X": 55.83000183105469,
+            "Y": 51.52000045776367
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123910,
+            "X": 52.34000015258789,
+            "Y": 51.52000045776367
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123919,
+            "X": 46.970001220703125,
+            "Y": 51.52000045776367
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123927,
+            "X": 41.09000015258789,
+            "Y": 51.52000045776367
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123935,
+            "X": 34.630001068115234,
+            "Y": 51.52000045776367
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123943,
+            "X": 28.43000030517578,
+            "Y": 51.88999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123950,
+            "X": 21.8700008392334,
+            "Y": 54.029998779296875
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123959,
+            "X": 16.709999084472656,
+            "Y": 56.15999984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123967,
+            "X": 12.90999984741211,
+            "Y": 57.72999954223633
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123975,
+            "X": 11.770000457763672,
+            "Y": 58.56999969482422
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 123983,
+            "X": 11.399999618530273,
+            "Y": 58.849998474121094
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124030,
+            "X": 12.079999923706055,
+            "Y": 58.939998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124038,
+            "X": 14.270000457763672,
+            "Y": 58.939998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124047,
+            "X": 18.850000381469727,
+            "Y": 58.20000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124055,
+            "X": 24.530000686645508,
+            "Y": 56.9900016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124063,
+            "X": 30.520000457763672,
+            "Y": 55.22999954223633
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124070,
+            "X": 37.029998779296875,
+            "Y": 53.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124078,
+            "X": 42.959999084472656,
+            "Y": 52.72999954223633
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124087,
+            "X": 46.349998474121094,
+            "Y": 52.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124095,
+            "X": 47.90999984741211,
+            "Y": 51.709999084472656
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124159,
+            "X": 46.970001220703125,
+            "Y": 51.709999084472656
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124167,
+            "X": 44.630001068115234,
+            "Y": 52.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124175,
+            "X": 41.709999084472656,
+            "Y": 53.290000915527344
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124183,
+            "X": 37.130001068115234,
+            "Y": 55.13999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124191,
+            "X": 32.54999923706055,
+            "Y": 56.34000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124198,
+            "X": 27.649999618530273,
+            "Y": 58.0099983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124207,
+            "X": 23.329999923706055,
+            "Y": 59.59000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124215,
+            "X": 20.40999984741211,
+            "Y": 60.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124223,
+            "X": 19.010000228881836,
+            "Y": 61.630001068115234
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124231,
+            "X": 18.540000915527344,
+            "Y": 62
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124238,
+            "X": 18.479999542236328,
+            "Y": 62.09000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124278,
+            "X": 18.75,
+            "Y": 62.09000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124287,
+            "X": 19.579999923706055,
+            "Y": 62.09000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124295,
+            "X": 21.709999084472656,
+            "Y": 62.09000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124303,
+            "X": 24.270000457763672,
+            "Y": 62.09000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124311,
+            "X": 27.34000015258789,
+            "Y": 61.06999969482422
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124318,
+            "X": 30.829999923706055,
+            "Y": 61.06999969482422
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124327,
+            "X": 32.439998626708984,
+            "Y": 60.790000915527344
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124335,
+            "X": 33.380001068115234,
+            "Y": 60.5099983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124343,
+            "X": 33.63999938964844,
+            "Y": 60.5099983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124351,
+            "X": 33.75,
+            "Y": 60.5099983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124391,
+            "X": 33.279998779296875,
+            "Y": 60.41999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124398,
+            "X": 31.81999969482422,
+            "Y": 60.41999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124407,
+            "X": 28.850000381469727,
+            "Y": 60.41999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124415,
+            "X": 23.540000915527344,
+            "Y": 60.41999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124423,
+            "X": 18.1200008392334,
+            "Y": 61.529998779296875
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124431,
+            "X": 12.960000038146973,
+            "Y": 62.7400016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124439,
+            "X": 10.100000381469727,
+            "Y": 63.47999954223633
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124446,
+            "X": 8.59000015258789,
+            "Y": 64.77999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124455,
+            "X": 8.329999923706055,
+            "Y": 65.23999786376953
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124463,
+            "X": 8.279999732971191,
+            "Y": 65.33000183105469
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124471,
+            "X": 8.279999732971191,
+            "Y": 65.5199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124486,
+            "X": 8.479999542236328,
+            "Y": 65.5199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124495,
+            "X": 8.899999618530273,
+            "Y": 65.5199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124503,
+            "X": 9.9399995803833,
+            "Y": 65.5199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124511,
+            "X": 12.130000114440918,
+            "Y": 64.95999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124519,
+            "X": 15.260000228881836,
+            "Y": 63.47999954223633
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124526,
+            "X": 19.420000076293945,
+            "Y": 61.439998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124535,
+            "X": 22.90999984741211,
+            "Y": 60.2400016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124543,
+            "X": 25.719999313354492,
+            "Y": 59.119998931884766
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124551,
+            "X": 27.90999984741211,
+            "Y": 58.47999954223633
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124559,
+            "X": 28.799999237060547,
+            "Y": 58.0099983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124566,
+            "X": 29.010000228881836,
+            "Y": 57.91999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124607,
+            "X": 28.3799991607666,
+            "Y": 57.83000183105469
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124615,
+            "X": 26.350000381469727,
+            "Y": 57.27000045776367
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124623,
+            "X": 21.399999618530273,
+            "Y": 57.27000045776367
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124630,
+            "X": 15.979999542236328,
+            "Y": 58.849998474121094
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124639,
+            "X": 10.569999694824219,
+            "Y": 60.04999923706055
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124647,
+            "X": 5.199999809265137,
+            "Y": 61.349998474121094
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124656,
+            "X": 1.1399999856948853,
+            "Y": 62.54999923706055
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124663,
+            "X": 0,
+            "Y": 64.41000366210938
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124670,
+            "X": 0,
+            "Y": 65.05999755859375
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124679,
+            "X": 0,
+            "Y": 65.61000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124686,
+            "X": 0,
+            "Y": 65.88999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124719,
+            "X": 0.15000000596046448,
+            "Y": 65.88999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124726,
+            "X": 0.3100000023841858,
+            "Y": 65.88999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124734,
+            "X": 0.6700000166893005,
+            "Y": 65.88999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124743,
+            "X": 0.9300000071525574,
+            "Y": 65.88999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124751,
+            "X": 1.350000023841858,
+            "Y": 65.88999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124759,
+            "X": 1.659999966621399,
+            "Y": 65.88999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124767,
+            "X": 1.9199999570846558,
+            "Y": 65.88999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124774,
+            "X": 2.0799999237060547,
+            "Y": 65.88999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124871,
+            "X": 2.180000066757202,
+            "Y": 65.88999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124879,
+            "X": 2.440000057220459,
+            "Y": 65.88999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124887,
+            "X": 2.809999942779541,
+            "Y": 65.80000305175781
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124894,
+            "X": 3.2799999713897705,
+            "Y": 65.5199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124902,
+            "X": 3.8499999046325684,
+            "Y": 65.5199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124911,
+            "X": 4.269999980926514,
+            "Y": 65.1500015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124919,
+            "X": 4.730000019073486,
+            "Y": 64.95999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124929,
+            "X": 4.889999866485596,
+            "Y": 64.77999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124935,
+            "X": 5.150000095367432,
+            "Y": 64.58999633789062
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124942,
+            "X": 5.150000095367432,
+            "Y": 64.5
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 124967,
+            "X": 5.199999809265137,
+            "Y": 64.5
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125071,
+            "X": 5.309999942779541,
+            "Y": 64.41000366210938
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125079,
+            "X": 5.670000076293945,
+            "Y": 64.41000366210938
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125087,
+            "X": 6.25,
+            "Y": 64.41000366210938
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125095,
+            "X": 7.079999923706055,
+            "Y": 64.41000366210938
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125102,
+            "X": 8.329999923706055,
+            "Y": 63.849998474121094
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125110,
+            "X": 10.050000190734863,
+            "Y": 62.83000183105469
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125119,
+            "X": 12.180000305175781,
+            "Y": 62.54999923706055
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125127,
+            "X": 14.529999732971191,
+            "Y": 61.810001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125135,
+            "X": 17.079999923706055,
+            "Y": 60.790000915527344
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125144,
+            "X": 19.15999984741211,
+            "Y": 59.59000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125151,
+            "X": 21.09000015258789,
+            "Y": 59.029998779296875
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125159,
+            "X": 23.06999969482422,
+            "Y": 58.099998474121094
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125167,
+            "X": 24.530000686645508,
+            "Y": 57.18000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125176,
+            "X": 25.719999313354492,
+            "Y": 56.900001525878906
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125183,
+            "X": 26.65999984741211,
+            "Y": 56.619998931884766
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125191,
+            "X": 27.440000534057617,
+            "Y": 56.439998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125199,
+            "X": 28.280000686645508,
+            "Y": 56.25
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125208,
+            "X": 28.799999237060547,
+            "Y": 56.25
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125216,
+            "X": 29.530000686645508,
+            "Y": 55.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125223,
+            "X": 30,
+            "Y": 55.790000915527344
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125230,
+            "X": 30.56999969482422,
+            "Y": 55.790000915527344
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125239,
+            "X": 31.040000915527344,
+            "Y": 55.599998474121094
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125247,
+            "X": 31.559999465942383,
+            "Y": 55.41999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125255,
+            "X": 32.029998779296875,
+            "Y": 55.22999954223633
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125263,
+            "X": 32.599998474121094,
+            "Y": 55.04999923706055
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125270,
+            "X": 33.119998931884766,
+            "Y": 54.86000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125279,
+            "X": 33.75,
+            "Y": 54.58000183105469
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125287,
+            "X": 34.369998931884766,
+            "Y": 54.209999084472656
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125295,
+            "X": 35,
+            "Y": 54.029998779296875
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125303,
+            "X": 35.459999084472656,
+            "Y": 53.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125310,
+            "X": 36.040000915527344,
+            "Y": 53.380001068115234
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125318,
+            "X": 36.29999923706055,
+            "Y": 53.189998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125327,
+            "X": 36.349998474121094,
+            "Y": 53.189998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125335,
+            "X": 36.400001525878906,
+            "Y": 53.099998474121094
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125344,
+            "X": 36.560001373291016,
+            "Y": 53.0099983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125456,
+            "X": 36.189998626708984,
+            "Y": 53.0099983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125463,
+            "X": 35.2599983215332,
+            "Y": 53.0099983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125471,
+            "X": 33.95000076293945,
+            "Y": 53.0099983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125478,
+            "X": 32.810001373291016,
+            "Y": 53.0099983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125486,
+            "X": 31.65999984741211,
+            "Y": 53.0099983215332
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125495,
+            "X": 30.719999313354492,
+            "Y": 53.65999984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125503,
+            "X": 30.260000228881836,
+            "Y": 53.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125510,
+            "X": 29.940000534057617,
+            "Y": 54.209999084472656
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125527,
+            "X": 29.84000015258789,
+            "Y": 54.29999923706055
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125615,
+            "X": 29.84000015258789,
+            "Y": 54.400001525878906
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125655,
+            "X": 29.790000915527344,
+            "Y": 54.58000183105469
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125663,
+            "X": 29.68000030517578,
+            "Y": 54.68000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125672,
+            "X": 29.3700008392334,
+            "Y": 54.95000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125678,
+            "X": 28.950000762939453,
+            "Y": 55.04999923706055
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125686,
+            "X": 28.59000015258789,
+            "Y": 55.13999938964844
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125695,
+            "X": 28.1200008392334,
+            "Y": 55.31999969482422
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125702,
+            "X": 27.760000228881836,
+            "Y": 55.689998626708984
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125711,
+            "X": 27.290000915527344,
+            "Y": 55.880001068115234
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125719,
+            "X": 27.030000686645508,
+            "Y": 56.06999969482422
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125727,
+            "X": 26.920000076293945,
+            "Y": 56.06999969482422
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125735,
+            "X": 26.81999969482422,
+            "Y": 56.15999984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 125751,
+            "X": 26.770000457763672,
+            "Y": 56.15999984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 125791,
+            "X": 26.770000457763672,
+            "Y": 56.15999984741211
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "F1",
+            "Timestamp": 126048
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F1",
+            "Timestamp": 126151
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 136263
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 136407
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 137567
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 137735
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 138055
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 138199
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 138359
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 138519
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 138687
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 138816
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 139016
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 139119
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 139272
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 139391
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 139639
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 140138
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "W",
+            "Timestamp": 140151
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 141023,
+            "X": 49.15999984741211,
+            "Y": 70.33999633789062
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 141134,
+            "X": 49.15999984741211,
+            "Y": 70.33999633789062
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 141751,
+            "X": 65.19999694824219,
+            "Y": 87.94999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 141847,
+            "X": 65.19999694824219,
+            "Y": 87.94999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 142727,
+            "X": 27.649999618530273,
+            "Y": 79.51000213623047
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 142815,
+            "X": 27.649999618530273,
+            "Y": 79.51000213623047
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 143511,
+            "X": 65.9800033569336,
+            "Y": 88.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 143607,
+            "X": 65.9800033569336,
+            "Y": 88.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 144481,
+            "X": 72.44000244140625,
+            "Y": 9.170000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 144495,
+            "X": 72.38999938964844,
+            "Y": 9.170000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 144510,
+            "X": 72.33999633789062,
+            "Y": 9.170000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 144576,
+            "X": 72.33999633789062,
+            "Y": 9.170000076293945
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 144887
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 145039
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 146455
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 146623
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 149191
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 149400
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 150119
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 150225
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "R",
+            "Timestamp": 151136
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "R",
+            "Timestamp": 151247
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "R",
+            "Timestamp": 151863
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "R",
+            "Timestamp": 151943
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 152367
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 152486
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 155471
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 155712
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 155823
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 155983
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 156631
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 156735
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 162632
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 162743
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Q",
+            "Timestamp": 163544
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Q",
+            "Timestamp": 163687
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Q",
+            "Timestamp": 163911
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Q",
+            "Timestamp": 164040
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 165471
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 165616
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 167183
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 167319
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "D",
+            "Timestamp": 168087
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "D",
+            "Timestamp": 168384
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "D",
+            "Timestamp": 169247
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "D",
+            "Timestamp": 169368
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 170847
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 171347
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 171380
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 171413
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 171445
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 171478
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 171512
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 171545
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 171578
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 171611
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 171643
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 171677
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 171710
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 171744
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 171775
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 171809
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "S",
+            "Timestamp": 171816
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 172623
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "W",
+            "Timestamp": 173056
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 173487
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 173647
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 174151
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 174651
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 174684
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 174717
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 174750
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 174783
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 174816
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 174849
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 174881
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 174915
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 174948
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 174981
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 175014
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 175046
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 175080
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 175113
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 175146
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 175178
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 175211
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 175245
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 175279
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 175311
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 175344
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 175377
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 175409
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 175439
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 175536
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 175543
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "W",
+            "Timestamp": 175863
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 175887
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 176192
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 176367
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 176960
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 177119
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 177304
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 177803
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 177837
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 177869
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 177902
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 177936
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 177968
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178002
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178034
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178067
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178100
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178133
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178167
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178200
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178232
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178266
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178298
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178331
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178364
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178397
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178432
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178464
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178497
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178529
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178562
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178596
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178629
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178661
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178694
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178728
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178761
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178795
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178826
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178859
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178892
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178926
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178959
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 178992
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 179008
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 179424
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 179923
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 179962
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 179990
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 180022
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 180057
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 180088
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 180121
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 180154
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 180187
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 180220
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 180254
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 180279,
+            "X": 54.58000183105469,
+            "Y": 33.36000061035156
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 180286
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 180319
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 180327
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "F1",
+            "Timestamp": 180609
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F1",
+            "Timestamp": 180743
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 180911
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 181079
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 181375
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 181551
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 184288
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 184455
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 190767
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 190879
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 191328
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 191408
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 191567
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 191663
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 191783
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 191887
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 192329
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 192439
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "F1",
+            "Timestamp": 193518
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F1",
+            "Timestamp": 193591
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "F1",
+            "Timestamp": 193695
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F1",
+            "Timestamp": 193759
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 194119
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 194263
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 198297
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 198795
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 198828
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 198861
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 198895
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 198927
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 198960
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 198993
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 199026
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 199059
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 199092
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 199125
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 199158
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 199191
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 199224
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 199257
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 199290
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 199323
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 199358
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 199389
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 199423
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 199462
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 199487
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 199855
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 199991
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 200111
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 200303
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 201087
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 201587
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 201620
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 201653
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 201685
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 201719
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 201751
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 201784
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 201818
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 201853
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 201884
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 201917
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 201949
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 201984
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 202016
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 202049
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 202081
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 202114
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 202148
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 202181
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 202215
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 202247
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 202280
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 202312
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 202346
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 202379
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 202412
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 202445
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 202478
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 202495
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 202855
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 202984
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 204471
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 204567
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 205263
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 205496
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 205543
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 205640
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 205687
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 205831
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 205943
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 206143
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 206223
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 206377
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 206479
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 206600
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 206695
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207196
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207228
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207261
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207294
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207328
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207361
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207393
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207426
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207459
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207493
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207528
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207558
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207591
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207624
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207658
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207691
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207723
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207757
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207789
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207822
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207855
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207888
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207922
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207955
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 207987
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 208020
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 208053
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 208055
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 208199
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 208335
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 208440
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 208575
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 208671
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 208760
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 208879
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 208911
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 209079
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 209175
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 209327
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 209439,
+            "X": 49.790000915527344,
+            "Y": 54.77000045776367
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "S",
+            "Timestamp": 209536
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "F1",
+            "Timestamp": 209744
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F1",
+            "Timestamp": 209887
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 210151
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 210288
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 210575
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211075
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211108
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211141
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211174
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211207
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211241
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211273
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211306
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211339
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211372
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211406
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211438
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211471
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211505
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211537
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211572
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211603
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 211623
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 211968
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 212467
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 212501
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 212533
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 212565
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 212599
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 212632
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 212664
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 212699
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 212730
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 212763
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 212784
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 212904
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213404
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213436
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213470
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213502
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213536
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213568
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213602
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213634
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213667
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213701
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213733
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213766
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213799
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213833
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213866
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213898
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213931
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213964
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 213998
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 214031
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 214063
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 214096
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 214129
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 214163
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 214197
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 214228
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 214261
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 214294
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 214328
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 214362
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 214393
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 214426
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 214461
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 214494
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 214526
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 214558
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 214567
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 217520
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 217703
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 218119
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 218248
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 219768,
+            "X": 72.5999984741211,
+            "Y": 10.75
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 219886,
+            "X": 72.5999984741211,
+            "Y": 10.75
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 220264
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 220415
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 223143
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 223327
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 224231
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 224368
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 225456
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 225639
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 226743
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 226896
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 229208
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 229360
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 230064
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 230199
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 230448
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 230583
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 232384
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 232479
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 232663
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 232719
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 232832
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 232935
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 234719
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 234903
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 234967
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 235102
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 235328
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 235407
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 235575
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 235671
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 236191
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 236692
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 236724
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 236757
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 236790
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 236823
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 236856
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 236889
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 236922
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 236955
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 236988
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 237021
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 237054
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 237071
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 237407
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 237526
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 240809
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241308
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241340
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241373
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241406
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241439
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241473
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241505
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241538
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241571
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241604
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241637
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241670
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241704
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241736
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241770
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241802
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241835
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241868
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241901
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241934
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 241967
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 242001
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 242033
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 242066
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 242099
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 242132
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 242151
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 242343
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 242844
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 242876
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 242910
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 242942
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 242976
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 243009
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 243041
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 243075
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 243108
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 243141
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 243173
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 243206
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 243207
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 243707
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 243740
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 243777
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 243806
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 243838
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 243872
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 243905
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 243938
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 243971
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 244003
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 244037
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 244071
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 244104
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 244136
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 244143,
+            "X": 49.72999954223633,
+            "Y": 37.900001525878906
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 244167
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "A",
+            "Timestamp": 244287
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "F1",
+            "Timestamp": 244439
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F1",
+            "Timestamp": 244600
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 244920
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 245055
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 245335
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 245543
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 245584
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 245734
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 245927
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 246008
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 246743
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 246959
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 248455
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 248633
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 248863
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 248879
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 251367
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 251511
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 252070
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 252192
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 252727
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 252863
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "3",
+            "Timestamp": 254351
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "3",
+            "Timestamp": 254487
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 254719
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 254871
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "F1",
+            "Timestamp": 256015
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F1",
+            "Timestamp": 256128
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "F1",
+            "Timestamp": 256592
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F1",
+            "Timestamp": 256687
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 257399
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 257479
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 257607
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 257671
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 257927
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 258040
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 258136
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 258223
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 259232
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 259320
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 259464
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 259599
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 259703
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 259831
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 260032
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 260096
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 260224
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 260351
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 267215
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 267360
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 267487
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 267607
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 267728
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 267849
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 267943
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 268095
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 268247
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 268376
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 268863
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269363
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269396
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269429
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269463
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269496
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269529
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269560
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269594
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269627
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269662
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269693
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269725
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269759
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269792
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269825
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269858
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269891
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269924
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269958
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 269990
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270023
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270055
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270090
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270123
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270155
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270189
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270221
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270255
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270288
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270323
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270353
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270386
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270420
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270452
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270485
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270523
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270550
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 270551
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 270775
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 270983
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 271127
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "W",
+            "Timestamp": 271175
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 271207
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 271343
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 280563,
+            "X": 50.93000030517578,
+            "Y": 51.34000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 280599,
+            "X": 50.880001068115234,
+            "Y": 51.34000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 280655,
+            "X": 50.880001068115234,
+            "Y": 51.34000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 281314,
+            "X": 64.37000274658203,
+            "Y": 87.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 281408,
+            "X": 64.37000274658203,
+            "Y": 87.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 282273,
+            "X": 63.75,
+            "Y": 55.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 282359,
+            "X": 63.75,
+            "Y": 55.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 283271,
+            "X": 64.68000030517578,
+            "Y": 89.1500015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 283359,
+            "X": 64.68000030517578,
+            "Y": 89.1500015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 284103,
+            "X": 72.69999694824219,
+            "Y": 9.729999542236328
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 284183,
+            "X": 72.69999694824219,
+            "Y": 9.729999542236328
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 284520
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 284647
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 286159
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 286271
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 287104
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 287247
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 288208
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 288280
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 296247
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 296368
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 297456
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 297955
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 297988
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 298021
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 298054
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 298087
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 298120
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 298153
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 298186
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 298219
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "W",
+            "Timestamp": 298233
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 300039
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 300183
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 307104
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 307528
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308027
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308061
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308093
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308126
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308160
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308192
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308225
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308258
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308291
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308324
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308357
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308390
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308426
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308456
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308489
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308522
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308555
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308588
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308621
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308655
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308687
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308723
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 308743,
+            "X": 49.630001068115234,
+            "Y": 49.38999938964844
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308753
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308786
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308819
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 308853
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 308855
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "W",
+            "Timestamp": 308856
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "F1",
+            "Timestamp": 308959
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F1",
+            "Timestamp": 309111
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 309352
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 309495
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 310127
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 310407
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 311479
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 311639
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 312016
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 312127
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 312767
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 313007
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 317239
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 317408
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "F1",
+            "Timestamp": 317943
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F1",
+            "Timestamp": 318055
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "F1",
+            "Timestamp": 318616
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F1",
+            "Timestamp": 318743
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 319408
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 319536
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 319759
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 319904
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "1",
+            "Timestamp": 324855
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "1",
+            "Timestamp": 324984
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 327280
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 327584
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 327759
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "W",
+            "Timestamp": 327927
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 327983
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 327984
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "W",
+            "Timestamp": 328135
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "A",
+            "Timestamp": 328223
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 328359
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 328859
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 328893
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 328926
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 328959
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 328991
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 329025
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 329058
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 329090
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 329123
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 329156
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 329190
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 329223
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 329255
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "S",
+            "Timestamp": 329288
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "S",
+            "Timestamp": 329304
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 329591
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "A",
+            "Timestamp": 329943
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "A",
+            "Timestamp": 330319
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "A",
+            "Timestamp": 330583
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 332503
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "W",
+            "Timestamp": 332599
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "W",
+            "Timestamp": 332703
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "W",
+            "Timestamp": 332743
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Shift",
+            "Timestamp": 334599
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Shift",
+            "Timestamp": 334736
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 335232
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 335732
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 335764
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 335797
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 335830
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 335863
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 335896
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 335929
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 335962
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 335995
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 336029
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 336061
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 336094
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 336127
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 336160
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 336199
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 336226
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 336260
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 336292
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 336327
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 336359
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 336392
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 336424
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 336457
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 336490
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 336523
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 336556
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 336562
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "F1",
+            "Timestamp": 337343
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F1",
+            "Timestamp": 337431
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Space",
+            "Timestamp": 338447
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Space",
+            "Timestamp": 338775
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "F1",
+            "Timestamp": 339201
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F1",
+            "Timestamp": 339319
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 339831,
+            "X": 47.650001525878906,
+            "Y": 91.0999984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 339935,
+            "X": 47.650001525878906,
+            "Y": 91.0999984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 346751,
+            "X": 55.099998474121094,
+            "Y": 82.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 346871,
+            "X": 55.099998474121094,
+            "Y": 82.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 347096,
+            "X": 54.369998931884766,
+            "Y": 84.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 347175,
+            "X": 54.369998931884766,
+            "Y": 84.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 347304,
+            "X": 54.369998931884766,
+            "Y": 84.80000305175781
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 347383,
+            "X": 54.369998931884766,
+            "Y": 84.80000305175781
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 347615,
+            "X": 54.209999084472656,
+            "Y": 84.9800033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 347703,
+            "X": 54.15999984741211,
+            "Y": 84.9800033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 347703,
+            "X": 54.15999984741211,
+            "Y": 84.9800033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 348088,
+            "X": 54.11000061035156,
+            "Y": 81.91999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 348191,
+            "X": 54.11000061035156,
+            "Y": 81.91999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 348879,
+            "X": 53.900001525878906,
+            "Y": 82.56999969482422
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 348991,
+            "X": 53.900001525878906,
+            "Y": 82.56999969482422
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 349167,
+            "X": 52.90999984741211,
+            "Y": 90.16999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 349279,
+            "X": 52.90999984741211,
+            "Y": 90.16999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 349408,
+            "X": 52.90999984741211,
+            "Y": 90.7300033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 349494,
+            "X": 52.90999984741211,
+            "Y": 90.7300033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 349639,
+            "X": 52.70000076293945,
+            "Y": 92.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 349743,
+            "X": 52.70000076293945,
+            "Y": 92.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 350447,
+            "X": 83.75,
+            "Y": 97.12000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 350471,
+            "X": 83.80000305175781,
+            "Y": 97.12000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 350520,
+            "X": 83.8499984741211,
+            "Y": 97.02999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 350526,
+            "X": 83.8499984741211,
+            "Y": 96.75
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 350535,
+            "X": 83.9000015258789,
+            "Y": 96.37999725341797
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 350535,
+            "X": 83.9000015258789,
+            "Y": 96.37999725341797
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 350695,
+            "X": 84.7300033569336,
+            "Y": 93.5999984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 350815,
+            "X": 84.7300033569336,
+            "Y": 93.5999984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 350919,
+            "X": 84.7300033569336,
+            "Y": 93.5999984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 351015,
+            "X": 84.7300033569336,
+            "Y": 93.5999984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 351127,
+            "X": 84.7300033569336,
+            "Y": 93.5999984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 351231,
+            "X": 84.7300033569336,
+            "Y": 93.5999984741211
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "F11",
+            "Timestamp": 353581
+        }
+    ],
+    "LoopDuration": 0,
+    "LoopInterval": 0,
+    "LoopIterations": 1,
+    "LoopType": "TillLoopNumber",
+    "MacroSchemaVersion": 3,
+    "MergeConfigurations": [
+    ],
+    "RestartPlayer": false,
+    "RestartPlayerAfterMinutes": 60,
+    "Shortcut": ""
+}
